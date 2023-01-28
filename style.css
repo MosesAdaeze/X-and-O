@@ -50,5 +50,11 @@ h2 {
 
 /* START GAME CONTAINER */
 
+.game-container {
+    width: 30rem;
+    height: 35rem;
+    background-color: blue;
+    position: fixed;
+}
 
 /* END WELCOME PAGE */
