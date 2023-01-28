@@ -4,6 +4,51 @@
     box-sizing: border-box;
 }
 
-h1 {
-    color: palevioletred;
+/* START WELCOME PAGE */
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 400px;
 }
+
+.welcome-container {
+    display: flex;
+    align-items: center;
+}
+
+.welcome-container {
+    display: flex;
+    flex-direction: column;
+}
+
+h2 {
+    font-size: 45px;
+    font-weight: 400;
+    font-family: bruce forever;
+}
+
+.button {
+    margin-top: 5px;
+    width: 8rem;
+    height: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    cursor: pointer;
+    box-shadow: 10px 5px 10px rgb(0,0,0,0.5);
+    border: none;
+    border-radius: 5px;
+}
+
+.button:hover {
+    background-color: black;
+    color: white;
+}
+
+/* END WELCOME PAGE */
+
+/* START GAME CONTAINER */
+
+
+/* END WELCOME PAGE */
