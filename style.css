@@ -27,7 +27,18 @@ h2 {
     font-size: 45px;
     font-weight: 400;
     font-family: bruce forever;
+    animation-name: example;
+    animation-duration: 35s;    
 }
+
+@keyframes example {
+    0%   {color:red; left:0px; top:0px;}
+    25%  {color:pink; left:200px; top:0px;}
+    50%  {color:blue; left:200px; top:200px;}
+    75%  {color:green; left:0px; top:200px;}
+    90%  {color:palevioletred; left:0px; top:200px;}
+    100% {color:red; left:0px; top:0px;}
+  }
 
 .button {
     margin-top: 5px;
@@ -51,6 +62,7 @@ h2 {
 /* START GAME CONTAINER */
 
 .game-container {
+    display: none;
     width: 30rem;
     height: 35rem;
     background-color: blue;
