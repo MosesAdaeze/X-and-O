@@ -5,5 +5,5 @@ Web Game
 * CSS
 * JAVASCRIPT
 
-<h2>Demo Link :</h2> </br>
+<h2>Demo Link :</h2>
 https://xs-an-os.netlify.app/
