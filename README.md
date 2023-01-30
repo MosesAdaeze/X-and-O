@@ -17,5 +17,5 @@ https://xs-an-os.netlify.app/
 
 </br>
 </br>
-<h5>Author</h5>
-Lind
+<h4>Author</h4>
+LinkedIn: @adaezemoses
