@@ -9,5 +9,5 @@ Web Game
 https://xs-an-os.netlify.app/
 
 <u><h4>Overview</h4></u>
-Rules</br>
 * Two players take turns: placing 'X' and 'O' marks in empty spaces on a 3x3 square grid.
+* Player with the 'X' mark starts first. The first player to place 3 marks in a vertical, horizontal, or diagonal row wins the game.
