@@ -4,7 +4,7 @@ A simple web game using
 * HTML
 * CSS
 * JAVASCRIPT
-(For more information about the game <i><link>https://en.wikipedia.org/wiki/Tic-tac-toe</link></1>
+(For more information about the game <a href="https://en.wikipedia.org/wiki/Tic-tac-toe" >click here </a>
 
 <h2>Demo Link :</h2>
 https://xs-an-os.netlify.app/
