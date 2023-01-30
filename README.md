@@ -18,4 +18,4 @@ https://xs-an-os.netlify.app/
 </br>
 </br>
 <h4>Author</h4>
-LinkedIn: @adaezemoses
+LinkedIn:[ @adaezemoses](https://www.linkedin.com/in/adaeze-moses-579b2b259/)
