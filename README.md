@@ -3,8 +3,8 @@
 A simple web game using 
 * HTML
 * CSS
-* JAVASCRIPT
-(For more information about the game <a href="https://en.wikipedia.org/wiki/Tic-tac-toe" >click here </a>
+* JAVASCRIPT</br>
+(For more information about the game <a href="https://en.wikipedia.org/wiki/Tic-tac-toe" ><i>click here</i></a> ).
 
 <h2>Demo Link :</h2>
 https://xs-an-os.netlify.app/
