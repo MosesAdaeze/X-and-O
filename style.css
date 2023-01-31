@@ -13,7 +13,7 @@ main {
     margin-top: 400px;
 }
 
-.welcome-container {
+/* .welcome-container {
     display: flex;
     align-items: center;
 }
@@ -55,7 +55,7 @@ h2 {
 .button:hover {
     background-color: black;
     color: white;
-}
+} */
 
 /* END WELCOME PAGE */
 
