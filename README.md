@@ -14,3 +14,4 @@ https://xs-an-os.netlify.app/
 * Player with the 'X' mark starts first. The first player to place 3 marks in a vertical, horizontal, or diagonal row wins the game.
 * If all spaces are filled, the game ends in a draw.
 
+![Demo-pic](https://user-images.githubusercontent.com/108338208/215787064-c3898bd4-1233-42dc-8592-f7ddd39481b7.png)
