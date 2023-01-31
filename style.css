@@ -64,23 +64,23 @@ h2 {
 .game-container {
     display: none;
     width: 30rem;
-    height: 35rem;
-    background-color: palevioletred;
+    height: 32rem;
+    background-color: rgb(212, 117, 149);
     position: fixed;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    box-shadow: 10px 5px 10px rgb(0,0,0,0.5);
 }
 
-
-/* table tr{
-    display: grid;
-    grid-template-columns: 30px 30px 30px;
-} */
 /* END WELCOME PAGE */
 
 .container {
-    margin: 0 auto;
+    padding-top: 40px;
+    margin: 0 20px;
     display: grid;
-    grid-template-columns: 33% 33% 33%;
-    grid-template-rows: 33% 33% 33%;
+    grid-template-columns: 50% 50% 50%;
+    grid-template-rows: 35% 35% 35%;
     max-width: 300px;
 }
 
@@ -88,11 +88,35 @@ h2 {
     border: 1px solid white;
     min-width: 100px;
     min-height: 100px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 50px;
     cursor: pointer;
+}
+
+acticle {
+    padding-top: 50px;
+    text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.controls button {
+    margin-top: 25px;
+    width: 5rem;
+    height: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    cursor: pointer;
+    box-shadow: 10px 5px 10px rgb(0,0,0,0.5);
+    border: none;
+    border-radius: 5px;
+}
+
+.controls button:hover {
+    background-color: black;
+    color: white;
 }
 
 .playerX {
